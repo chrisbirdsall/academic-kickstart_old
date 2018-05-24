@@ -10,9 +10,10 @@ weight = 5
 # List your academic interests.
 [interests]
   interests = [
-    "Artificial Intelligence",
-    "Computational Linguistics",
-    "Information Retrieval"
+    "Public Management",
+    "Public Policy",
+    "Organization Theory",
+    "Higher Education"
   ]
 
 # List your qualifications (such as academic degrees).
@@ -29,7 +30,7 @@ weight = 5
 [[education.courses]]
   course = "BA in Political Science"
   institution = "University of Alaska Fairbanks"
-  year = 2008
+  year = 2009
 
 +++
 
