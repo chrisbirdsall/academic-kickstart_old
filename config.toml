@@ -55,7 +55,7 @@ enableGitInfo = false
 
   # Your details.
   name = "Chris Birdsall"
-  role = "Assistant Professor of Public Administration?"
+  role = "Assistant Professor"
 
   # Organizations/Affiliations.
   #   Separate multiple entries with a comma, using the form: `[ {name="Org1", url=""}, {name="Org2", url=""} ]`.
@@ -237,7 +237,7 @@ enableGitInfo = false
   [[params.social]]
     icon = "github"
     icon_pack = "fa"
-    link = "//github.com/gcushen"
+    link = "https://github.com/chrisbirdsall"
 
 
 # Navigation Links
