@@ -1,6 +1,6 @@
 +++
 title = "Can Diversity Management Improve Job Satisfaction for Military Veterans in the Federal Government?"
-date = "2018"
+date = "2018-01-01"
 draft = false
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
